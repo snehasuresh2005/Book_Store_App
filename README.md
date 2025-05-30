@@ -1,2 +1,2 @@
 # Book_Store_App
-A book store app made using MERN stack
+PageNest is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to browse, search, and purchase books online with a responsive and user-friendly interface. Features include user authentication, a shopping cart, and an admin panel for managing books. The backend uses RESTful APIs to interact with a MongoDB database. The app showcases CRUD operations, secure login with JWT, and full-stack integration
